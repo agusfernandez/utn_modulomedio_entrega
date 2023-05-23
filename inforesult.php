@@ -10,7 +10,7 @@
                 <?php
 
                     $archivo = fopen('info.txt' , 'r');
-                    echo fread($archivo, 400);
+                    echo fread($archivo, 450);
 
                 ?>
             </div>

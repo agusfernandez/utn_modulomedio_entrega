@@ -22,7 +22,7 @@
                         <label for="descripcion" class="form-label">Deje su comentario</label>
                         <textarea class="form-control" aria-label="With textarea" name="comentario"></textarea>
                     </div>
-                    <button type="submit" class="btn btn-primary" value="cargar personaje">Submit</button>
+                    <button type="submit" class="btn btn-dark" value="cargar personaje">Submit</button>
                 </form>
             </div>
         </div>

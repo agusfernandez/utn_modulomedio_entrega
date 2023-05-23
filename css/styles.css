@@ -6,10 +6,46 @@
 }
 
 body{
-    background-color: #000;
-    
+    font-family: 'Lora', serif!important;
+    display: block;
+    content: "";
+    background-image: url("../imagenes/howgarts.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
-ul .nav >li > a{
+.nav{
+    background-color: #fff;
+    padding: 20px;
+    margin-bottom: 60px!important;
+}
+
+ul.nav >li > a{
     font-family: 'Lora', serif;
+    font-weight: bold;
+}
+
+.container{
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+form{
+    padding: 20px;
+    margin-top: 40px;
+}
+
+button{
+    background-color: #000;
+}
+
+.card{
+    margin: 5px;
+    padding: 10px;
+}
+
+.personajes-section{
+    background-color: transparent;
 }
